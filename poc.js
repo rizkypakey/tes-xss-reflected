@@ -1,1 +1,1 @@
-alert(document.domain);
+alert('celah xss valid');
