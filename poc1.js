@@ -1,1 +1,1 @@
-alert('celah xss valid');
+alert('akun anda telah dicuri!!!');
