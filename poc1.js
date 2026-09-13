@@ -1,1 +1,1 @@
-alert('akun anda telah dicuri!!!');
+alert('akun anda telah dicuri!!!!');
